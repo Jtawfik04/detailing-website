@@ -1,6 +1,6 @@
 import React from "react";
 
- export function App() {
+function App() {
   return (
     <>
       <div class="bg-white dark:bg-gray-800 max-h-full">
